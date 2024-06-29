@@ -1,0 +1,47 @@
+@import '../utils/variables';
+@import '../utils/mixins';
+
+.project-item {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: $white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+
+    .project-image {
+        max-width: 300px;
+        height: auto;
+        border-radius: 8px;
+        margin-right: 2rem;
+    }
+
+    .project-details {
+        flex: 1;
+
+        h2 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .technologies {
+            margin-top: 1rem;
+
+            ul {
+                list-style-type: none;
+                padding: 0;
+
+                li {
+                    font-size: 1rem;
+                    margin-bottom: 0.5rem;
+                }
+            }
+        }
+    }
+}
