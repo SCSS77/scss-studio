@@ -5,13 +5,17 @@ import '../assets/scss/widgets/header.scss';
 const Header: React.FC = () => {
     return (
         <header className="header">
-            <h1>Mi Portfolio</h1>
-            <nav>
-                <Link to="/">Inicio</Link>
-                <Link to="/services">Servicios</Link>
-                <Link to="/portfolio">Portfolio</Link>
-                <Link to="/contact">Contacto</Link>
-            </nav>
+            <div className="container">
+                <h1 className="logo">SCSS</h1>
+                <nav className="nav">
+                    <ul>
+                        <li><Link to="/">inicio</Link></li>
+                        <li><Link to="/services">servicios</Link></li>
+                        <li><Link to="/portfolio">portfolio</Link></li>
+                        <li><Link to="/contact">contacto</Link></li>
+                    </ul>
+                </nav>
+            </div>
         </header>
     );
 };

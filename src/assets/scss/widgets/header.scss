@@ -4,13 +4,20 @@
 .header {
     background-color: $black;
     color: $white;
-    padding: 1rem;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    height: 92px;
+    padding: 0 5%;
+
+    .container {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
 
     .logo {
-        font-size: 1.8rem;
+        font-size: 2rem;
         font-weight: bold;
         text-decoration: none;
         color: $white;
@@ -21,11 +28,15 @@
     }
 
     .nav {
+        margin-left: auto;
+
         ul {
             list-style-type: none;
             padding: 0;
             margin: 0;
             display: flex;
+            flex-direction: row;
+            gap: 15px;
 
             li {
                 margin-left: 1rem;

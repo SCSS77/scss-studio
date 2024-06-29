@@ -36,8 +36,8 @@ const projects: Project[] = [
 const Portfolio: React.FC = () => {
     return (
         <div className="portfolio">
-            <h1>Mi Portafolio</h1>
-            <p>Aquí puedes ver algunos de mis proyectos destacados y las tecnologías que utilizo.</p>
+            <h1 className="title">Mi Portafolio</h1>
+            <p className="subtitle">Aquí puedes ver algunos de mis proyectos destacados y las tecnologías que utilizo.</p>
 
             <div className="projects">
                 {projects.map((project) => (
