@@ -2,7 +2,7 @@
   {
         "id": 1,
         "title": "Drinks & CO",
-        "description": "Sass UX/UI, design.",
+        "description": "Drinks&Co es una tienda online de bebidas que ofrece una amplia selección de vinos, licores y cervezas para todos los gustos.",
         "imageUrl": "/assets/images/drinksandco.jpg",
         "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
     },
@@ -16,9 +16,9 @@
     {
         "id": 3,
         "title": "Institut Gutmann",
-        "description": "Sass, UX/UI.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/3bc92e199111429.664c7582aca9f.jpg",
-        "technologies": ["Angular", "Firebase", "GraphQL"]
+        "description": "Amics Gutmann es una asociación dedicada a mejorar la calidad de vida de personas con discapacidades, promoviendo su inclusión y bienestar.",
+        "imageUrl": "/assets/images/gutmann.jpg",
+        "technologies": ["UX/UI", "JS", "HTML", "SCSS", "CMS"]
     },
     {
         "id": 4,

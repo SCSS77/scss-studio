@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Desarrollo Frontend",
+    "description": "Creación de interfaces de usuario modernas y responsivas utilizando tecnologías como React, Vue, y más.",
+    "image": "/assets/images/frontend.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Diseño UX/UI",
+    "description": "Diseño de experiencias de usuario intuitivas y atractivas con herramientas como Figma y Adobe XD.",
+    "image": "/assets/images/design.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Edición de Video",
+    "description": "Producción y edición de videos de alta calidad para marketing y contenido digital.",
+    "image": "/assets/images/video.jpg"
+  },
+  {
+    "id": 4,
+    "title": "SEO y Optimización",
+    "description": "Optimización de sitios web para mejorar el rendimiento en motores de búsqueda y la experiencia del usuario.",
+    "image": "/assets/images/seo.jpg"
+  }
+]
