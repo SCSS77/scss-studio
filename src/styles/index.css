@@ -16,7 +16,7 @@ code {
 }
 
 .main {
-  padding: 6.4rem 4.3rem;
+  padding: 6.4rem 4.2rem;
 }
 
 .main .content {
@@ -24,12 +24,12 @@ code {
 }
 
 .main .title {
-  font-size: 88px;
+  font-size: 6rem;
   font-weight: 600;
-  letter-spacing: -4px;
+  letter-spacing: -.2rem;
 }
 
 .main .subtitle {
-  font-size: 18px;
-  padding-bottom: 4.3rem;
+  font-size: 1.2rem;
+  padding-bottom: 3rem;
 }

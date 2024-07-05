@@ -1,17 +1,17 @@
 [
   {
         "id": 1,
-        "title": "By Hours",
+        "title": "Drinks & CO",
         "description": "Sass UX/UI, design.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/cc8ed4201854435.667bf1d276bb5.png",
-        "technologies": ["CRM", "UX/UI", "MySQL"]
+        "imageUrl": "/assets/images/drinksandco.jpg",
+        "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
     },
     {
         "id": 2,
-        "title": "Drinks & CO",
-        "description": "PAL Aerospace.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/70ee6a164006219.63ef48feaa040.gif",
-        "technologies": ["Web design", "JS", "UX/UI"]
+        "title": "By Hours",
+        "description": "ByHours es una plataforma que permite reservar habitaciones de hotel por horas, ofreciendo flexibilidad y ahorro a los usuarios.",
+        "imageUrl": "/assets/images/byhourslogo.jpg",
+        "technologies": ["UX/UI", "HTML", "SCSS"]
     },
     {
         "id": 3,
