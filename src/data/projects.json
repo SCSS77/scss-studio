@@ -23,64 +23,64 @@
     {
         "id": 4,
         "title": "JC Apotecari",
-        "description": "Sass UX/UI, design.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7f019e200788259.66687e4aa71a5.jpg",
-        "technologies": ["CRM", "UX/UI", "MySQL"]
+        "description": "Innovadora farmacia en línea que ofrece una amplia gama de productos de salud y belleza, con un enfoque en el cuidado personalizado y la calidad.",
+        "imageUrl": "/assets/images/jcapotecari.jpg",
+        "technologies": ["ID", "Branding", "PHP", "MySQL"]
     },
     {
         "id": 5,
-        "title": "QuePasta",
-        "description": "Descripción del Proyecto 5.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/df144a190475019.65bb708c68c19.jpg",
-        "technologies": ["Vue.js", "Express", "MySQL"]
+        "title": "Emagister",
+        "description": "Plataforma líder en la búsqueda de cursos y programas educativos, ayudando a los usuarios a encontrar la formación que necesitan en un solo lugar.",
+        "imageUrl": "/assets/images/emagister.jpg",
+        "technologies": ["React", "JS", "PHP", "SCSS"]
     },
     {
         "id": 6,
-        "title": "Codely.tv",
-        "description": "Descripción del Proyecto 6.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/b417eb195341063.66164d8a33aec.jpg",
-        "technologies": ["Angular", "Firebase", "GraphQL"]
+        "title": "Qué Pasta!",
+        "description": "Cadena de restaurantes que ofrece una experiencia única de pasta fresca y auténtica cocina italiana en un ambiente acogedor.",
+        "imageUrl": "/assets/images/quepasta.jpg",
+        "technologies": ["ID", "Branding", "Offline design"]
     },
     {
         "id": 7,
-        "title": "Emagister",
+        "title": "Promofarma",
+        "description": "Marketplace líder en productos de salud y belleza, ofreciendo una amplia gama de artículos de farmacia y parafarmacia con entrega rápida y precios competitivos.",
+        "imageUrl": "/assets/images/promofarma.jpg",
+        "technologies": ["Vue.js", "React", "SCSS", "TS"]
+    },
+    {
+        "id": 8,
+        "title": "Codely.tv",
+        "description": "Plataforma de formación en línea que ofrece cursos avanzados en desarrollo de software, impartidos por expertos para profesionales que buscan perfeccionar sus habilidades técnicas.",
+        "imageUrl": "/assets/images/codely.jpg",
+        "technologies": ["ID", "Branding", "Online design"]
+    },
+    {
+        "id": 9,
+        "title": "Digital Igual",
+        "description": "Imprenta en Barcelona especializada en soluciones gráficas de alta calidad, ofreciendo servicios personalizados para cubrir todas tus necesidades de impresión.",
+        "imageUrl": "/assets/images/igual.jpg",
+        "technologies": ["ID", "JS", "PHP", "CMS"]
+    },
+    {
+        "id": 10,
+        "title": "Time Geeks",
         "description": "Descripción del Proyecto 7.",
         "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c7c7a0199686781.6655f2495a898.jpg",
         "technologies": ["React", "Node.js", "MongoDB"]
     },
     {
-        "id": 8,
-        "title": "Promofarma",
+        "id": 11,
+        "title": "Crazy Bill",
         "description": "Descripción del Proyecto 8.",
         "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ded7f4192839517.65e1d5a895613.png",
         "technologies": ["Vue.js", "Express", "MySQL"]
     },
     {
-        "id": 9,
-        "title": "Digital Igual",
+        "id": 12,
+        "title": "SH Barcelona",
         "description": "Descripción del Proyecto 9.",
         "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/ea26d3192019331.65d52bb340339.jpg",
         "technologies": ["Angular", "Firebase", "GraphQL"]
-    },
-    {
-          "id": 7,
-          "title": "Time Geeks",
-          "description": "Descripción del Proyecto 7.",
-          "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c7c7a0199686781.6655f2495a898.jpg",
-          "technologies": ["React", "Node.js", "MongoDB"]
-      },
-      {
-          "id": 8,
-          "title": "Crazy Bill",
-          "description": "Descripción del Proyecto 8.",
-          "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ded7f4192839517.65e1d5a895613.png",
-          "technologies": ["Vue.js", "Express", "MySQL"]
-      },
-      {
-          "id": 9,
-          "title": "SH Barcelona",
-          "description": "Descripción del Proyecto 9.",
-          "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/ea26d3192019331.65d52bb340339.jpg",
-          "technologies": ["Angular", "Firebase", "GraphQL"]
-      }
+    }
 ]

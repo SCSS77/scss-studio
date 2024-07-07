@@ -22,5 +22,17 @@
     "title": "SEO y Optimización",
     "description": "Optimización de sitios web para mejorar el rendimiento en motores de búsqueda y la experiencia del usuario.",
     "image": "/assets/images/seo.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Traducciones",
+    "description": "Servicios de traducción profesional para asegurar la comunicación efectiva en múltiples idiomas.",
+    "image": "/assets/images/translation.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Marketing",
+    "description": "Estrategias de marketing integrales para potenciar la presencia de tu marca y alcanzar a tu público objetivo.",
+    "image": "/assets/images/marketing.jpg"
   }
 ]
