@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import FadeTransition from './components/FadeTransition';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -14,12 +15,14 @@ const App: React.FC = () => {
                 <Header />
                 <main className="main">
                     <div className="container">
-                        <Routes>
-                            <Route path="/" element={<Home />} />
-                            <Route path="/services" element={<Services />} />
-                            <Route path="/portfolio" element={<Portfolio />} />
-                            <Route path="/contact" element={<Contact />} />
-                        </Routes>
+                        <FadeTransition>
+                            <Routes>
+                                <Route path="/" element={<Home />} />
+                                <Route path="/services" element={<Services />} />
+                                <Route path="/portfolio" element={<Portfolio />} />
+                                <Route path="/contact" element={<Contact />} />
+                            </Routes>
+                        </FadeTransition>
                     </div>
                 </main>
                 <Footer />
