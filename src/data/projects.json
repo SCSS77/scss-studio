@@ -1,86 +1,86 @@
 [
   {
-        "id": 1,
-        "title": "Drinks & CO",
-        "description": "Drinks&Co es una tienda online de bebidas que ofrece una amplia selección de vinos, licores y cervezas para todos los gustos.",
-        "imageUrl": "/assets/images/drinksandco.jpg",
-        "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
-    },
-    {
-        "id": 2,
-        "title": "By Hours",
-        "description": "ByHours es una plataforma que permite reservar habitaciones de hotel por horas, ofreciendo flexibilidad y ahorro a los usuarios.",
-        "imageUrl": "/assets/images/byhourslogo.jpg",
-        "technologies": ["UX/UI", "HTML", "SCSS"]
-    },
-    {
-        "id": 3,
-        "title": "Institut Gutmann",
-        "description": "Amics Gutmann es una asociación dedicada a mejorar la calidad de vida de personas con discapacidades, promoviendo su inclusión y bienestar.",
-        "imageUrl": "/assets/images/gutmann.jpg",
-        "technologies": ["UX/UI", "JS", "HTML", "SCSS", "CMS"]
-    },
-    {
-        "id": 4,
-        "title": "JC Apotecari",
-        "description": "Innovadora farmacia en línea que ofrece una amplia gama de productos de salud y belleza, con un enfoque en el cuidado personalizado y la calidad.",
-        "imageUrl": "/assets/images/jcapotecari.jpg",
-        "technologies": ["ID", "Branding", "PHP", "MySQL"]
-    },
-    {
-        "id": 5,
-        "title": "Emagister",
-        "description": "Plataforma líder en la búsqueda de cursos y programas educativos, ayudando a los usuarios a encontrar la formación que necesitan en un solo lugar.",
-        "imageUrl": "/assets/images/emagister.jpg",
-        "technologies": ["React", "JS", "PHP", "SCSS"]
-    },
-    {
-        "id": 6,
-        "title": "Qué Pasta!",
-        "description": "Cadena de restaurantes que ofrece una experiencia única de pasta fresca y auténtica cocina italiana en un ambiente acogedor.",
-        "imageUrl": "/assets/images/quepasta.jpg",
-        "technologies": ["ID", "Branding", "Offline design"]
-    },
-    {
-        "id": 7,
-        "title": "Promofarma",
-        "description": "Marketplace líder en productos de salud y belleza, ofreciendo una amplia gama de artículos de farmacia y parafarmacia con entrega rápida y precios competitivos.",
-        "imageUrl": "/assets/images/promofarma.jpg",
-        "technologies": ["Vue.js", "React", "SCSS", "TS"]
-    },
-    {
-        "id": 8,
-        "title": "Codely.tv",
-        "description": "Plataforma de formación en línea que ofrece cursos avanzados en desarrollo de software, impartidos por expertos para profesionales que buscan perfeccionar sus habilidades técnicas.",
-        "imageUrl": "/assets/images/codely.jpg",
-        "technologies": ["ID", "Branding", "Online design"]
-    },
-    {
-        "id": 9,
-        "title": "Digital Igual",
-        "description": "Imprenta en Barcelona especializada en soluciones gráficas de alta calidad, ofreciendo servicios personalizados para cubrir todas tus necesidades de impresión.",
-        "imageUrl": "/assets/images/igual.jpg",
-        "technologies": ["ID", "JS", "PHP", "CMS"]
-    },
-    {
-        "id": 10,
-        "title": "Time Geeks",
-        "description": "Descripción del Proyecto 7.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/c7c7a0199686781.6655f2495a898.jpg",
-        "technologies": ["React", "Node.js", "MongoDB"]
-    },
-    {
-        "id": 11,
-        "title": "Crazy Bill",
-        "description": "Descripción del Proyecto 8.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ded7f4192839517.65e1d5a895613.png",
-        "technologies": ["Vue.js", "Express", "MySQL"]
-    },
-    {
-        "id": 12,
-        "title": "SH Barcelona",
-        "description": "Descripción del Proyecto 9.",
-        "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/ea26d3192019331.65d52bb340339.jpg",
-        "technologies": ["Angular", "Firebase", "GraphQL"]
-    }
+    "id": 1,
+    "title": "Drinks & CO",
+    "description": "Drinks&Co es una tienda online de bebidas que ofrece una amplia selección de vinos, licores y cervezas para todos los gustos.",
+    "imageUrl": "/assets/images/drinksandco.jpg",
+    "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
+  },
+  {
+    "id": 2,
+    "title": "By Hours",
+    "description": "ByHours es una plataforma que permite reservar habitaciones de hotel por horas, ofreciendo flexibilidad y ahorro a los usuarios.",
+    "imageUrl": "/assets/images/byhourslogo.jpg",
+    "technologies": ["UX/UI", "HTML", "SCSS"]
+  },
+  {
+    "id": 3,
+    "title": "Institut Gutmann",
+    "description": "Amics Gutmann es una asociación dedicada a mejorar la calidad de vida de personas con discapacidades, promoviendo su inclusión y bienestar.",
+    "imageUrl": "/assets/images/gutmann.jpg",
+    "technologies": ["UX/UI", "JS", "HTML", "SCSS", "CMS"]
+  },
+  {
+    "id": 4,
+    "title": "JC Apotecari",
+    "description": "Innovadora farmacia en línea que ofrece una amplia gama de productos de salud y belleza, con un enfoque en el cuidado personalizado y la calidad.",
+    "imageUrl": "/assets/images/jcapotecari.jpg",
+    "technologies": ["ID", "Branding", "PHP", "MySQL"]
+  },
+  {
+    "id": 5,
+    "title": "Emagister",
+    "description": "Plataforma líder en la búsqueda de cursos y programas educativos, ayudando a los usuarios a encontrar la formación que necesitan en un solo lugar.",
+    "imageUrl": "/assets/images/emagister.jpg",
+    "technologies": ["React", "JS", "PHP", "SCSS"]
+  },
+  {
+    "id": 6,
+    "title": "Qué Pasta!",
+    "description": "Cadena de restaurantes que ofrece una experiencia única de pasta fresca y auténtica cocina italiana en un ambiente acogedor.",
+    "imageUrl": "/assets/images/quepasta.jpg",
+    "technologies": ["ID", "Branding", "Offline design"]
+  },
+  {
+    "id": 7,
+    "title": "Promofarma",
+    "description": "Marketplace líder en productos de salud y belleza, ofreciendo una amplia gama de artículos de farmacia y parafarmacia con entrega rápida y precios competitivos.",
+    "imageUrl": "/assets/images/promofarma.jpg",
+    "technologies": ["Vue.js", "React", "SCSS", "TS"]
+  },
+  {
+    "id": 8,
+    "title": "Codely.tv",
+    "description": "Plataforma de formación en línea que ofrece cursos avanzados en desarrollo de software, impartidos por expertos para profesionales que buscan perfeccionar sus habilidades técnicas.",
+    "imageUrl": "/assets/images/codely.jpg",
+    "technologies": ["ID", "Branding", "Online design"]
+  },
+  {
+    "id": 9,
+    "title": "Digital Igual",
+    "description": "Imprenta en Barcelona especializada en soluciones gráficas de alta calidad, ofreciendo servicios personalizados para cubrir todas tus necesidades de impresión.",
+    "imageUrl": "/assets/images/igual.jpg",
+    "technologies": ["ID", "JS", "PHP", "CMS"]
+  },
+  {
+    "id": 10,
+    "title": "Time Geeks",
+    "description": "Juego móvil galardonado que combina aventuras de rompecabezas y gráficos en pixel-art para ofrecer una experiencia única de exploración y diversión.",
+    "imageUrl": "/assets/images/timegeeks.jpg",
+    "technologies": ["Pixel-art", "Illustration", "Games"]
+  },
+  {
+    "id": 11,
+    "title": "Entrena en Barcelona",
+    "description": "Descubre los beneficios del boxeo y crossfit en Barcelona con clases para todos los niveles, desde principiantes hasta profesionales.",
+    "imageUrl": "/assets/images/entrenaenbarcelona.jpg",
+    "technologies": ["Video", "Post-production", "Social media"]
+  },
+  {
+    "id": 12,
+    "title": "Crazy Bill",
+    "description": "Juego móvil de acción y plataformas en el que te enfrentas a hordas de zombies en un hotel repleto de desafíos y diversión sin límites. Disponible en iTunes y Android.",
+    "imageUrl": "/assets/images/crazybill.jpg",
+    "technologies": ["Pixel-art", "Illustration", "Games"]
+  }
 ]

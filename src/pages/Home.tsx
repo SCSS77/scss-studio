@@ -13,7 +13,7 @@ const Home: React.FC = () => {
             <p className="subtitle">Desarrollo web, diseño y edición de video profesional.</p>
 
             <div className="projects-grid">
-                {projects.slice(0, 9).map((project) => (
+                {projects.slice(0, 12).map((project) => (
                     <ProjectCard key={project.id} project={project} />
                 ))}
             </div>
