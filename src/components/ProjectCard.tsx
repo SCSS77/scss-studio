@@ -10,7 +10,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
     return (
         <div className="project-card">
             <div className="project-image">
-                <img src={project.imageUrl} alt={project.title} />
+                <img src={project.imageUrl} alt={project.title} loading="lazy" />
             </div>
             <div className="project-details">
                 <h2>{project.title}</h2>
