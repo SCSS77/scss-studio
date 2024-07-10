@@ -9,15 +9,17 @@ interface FadeTransitionProps {
 
 const FadeTransition: React.FC<FadeTransitionProps> = ({ children }) => {
     const location = useLocation();
+    const nodeRef = React.useRef(null);
 
     return (
         <TransitionGroup>
             <CSSTransition
                 key={location.key}
-                timeout={300}
                 classNames="fade"
+                timeout={300}
+                nodeRef={nodeRef}
             >
-                <div className="fade-container">
+                <div ref={nodeRef}>
                     {children}
                 </div>
             </CSSTransition>

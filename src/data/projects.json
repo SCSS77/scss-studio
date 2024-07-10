@@ -4,6 +4,7 @@
     "title": "Drinks & CO",
     "description": "Drinks&Co es una tienda online de bebidas que ofrece una amplia selección de vinos, licores y cervezas para todos los gustos.",
     "imageUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco2.png",
     "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
   },
   {
@@ -11,6 +12,7 @@
     "title": "By Hours",
     "description": "ByHours es una plataforma que permite reservar habitaciones de hotel por horas, ofreciendo flexibilidad y ahorro a los usuarios.",
     "imageUrl": "/assets/images/byhourslogo-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["UX/UI", "HTML", "SCSS"]
   },
   {
@@ -18,6 +20,7 @@
     "title": "Institut Gutmann",
     "description": "Amics Gutmann es una asociación dedicada a mejorar la calidad de vida de personas con discapacidades, promoviendo su inclusión y bienestar.",
     "imageUrl": "/assets/images/gutmann-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["UX/UI", "JS", "HTML", "SCSS", "CMS"]
   },
   {
@@ -25,6 +28,7 @@
     "title": "JC Apotecari",
     "description": "Innovadora farmacia en línea que ofrece una amplia gama de productos de salud y belleza, con un enfoque en el cuidado personalizado y la calidad.",
     "imageUrl": "/assets/images/jcapotecari-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["ID", "Branding", "PHP", "MySQL"]
   },
   {
@@ -32,6 +36,7 @@
     "title": "Emagister",
     "description": "Plataforma líder en la búsqueda de cursos y programas educativos, ayudando a los usuarios a encontrar la formación que necesitan en un solo lugar.",
     "imageUrl": "/assets/images/emagister-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["React", "JS", "PHP", "SCSS"]
   },
   {
@@ -39,6 +44,7 @@
     "title": "Qué Pasta!",
     "description": "Cadena de restaurantes que ofrece una experiencia única de pasta fresca y auténtica cocina italiana en un ambiente acogedor.",
     "imageUrl": "/assets/images/quepasta-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["ID", "Branding", "Offline design"]
   },
   {
@@ -46,6 +52,7 @@
     "title": "Promofarma",
     "description": "Marketplace líder en productos de salud y belleza, ofreciendo una amplia gama de artículos de farmacia y parafarmacia con entrega rápida y precios competitivos.",
     "imageUrl": "/assets/images/promofarma-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["Vue.js", "React", "SCSS", "TS"]
   },
   {
@@ -53,6 +60,7 @@
     "title": "Codely.tv",
     "description": "Plataforma de formación en línea que ofrece cursos avanzados en desarrollo de software, impartidos por expertos para profesionales que buscan perfeccionar sus habilidades técnicas.",
     "imageUrl": "/assets/images/codely-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["ID", "Branding", "Online design"]
   },
   {
@@ -60,6 +68,7 @@
     "title": "Digital Igual",
     "description": "Imprenta en Barcelona especializada en soluciones gráficas de alta calidad, ofreciendo servicios personalizados para cubrir todas tus necesidades de impresión.",
     "imageUrl": "/assets/images/igual-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["ID", "JS", "PHP", "CMS"]
   },
   {
@@ -67,6 +76,7 @@
     "title": "Time Geeks",
     "description": "Juego móvil galardonado que combina aventuras de rompecabezas y gráficos en pixel-art para ofrecer una experiencia única de exploración y diversión.",
     "imageUrl": "/assets/images/timegeeks-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["Pixel-art", "Illustration", "Games"]
   },
   {
@@ -74,6 +84,7 @@
     "title": "Entrena en Barcelona",
     "description": "Descubre los beneficios del boxeo y crossfit en Barcelona con clases para todos los niveles, desde principiantes hasta profesionales.",
     "imageUrl": "/assets/images/entrenaenbarcelona-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["Video", "Post-production", "Social media"]
   },
   {
@@ -81,6 +92,7 @@
     "title": "Crazy Bill",
     "description": "Juego móvil de acción y plataformas en el que te enfrentas a hordas de zombies en un hotel repleto de desafíos y diversión sin límites. Disponible en iTunes y Android.",
     "imageUrl": "/assets/images/crazybill-small.jpg",
+    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
     "technologies": ["Pixel-art", "Illustration", "Games"]
   }
 ]
