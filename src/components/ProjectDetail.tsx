@@ -7,8 +7,10 @@ interface Project {
     id: number;
     title: string;
     description: string;
+    details: string;
     imageUrl: string;
     imagePortfolioUrl: string;
+    imagePortfolioBigUrl: string;
     technologies: string[];
 }
 
@@ -54,22 +56,15 @@ const ProjectDetail: React.FC = () => {
                     </div>
                 </section>
             </section>
-            <section className="project-detail-main">
+            <section className="project-detail-main project-detail-main--last">
                 <section className="project-detail container">
                     <div className="project-image">
-                        <img src={project.imageUrl} alt={project.title} />
+                        <img src={project.imagePortfolioBigUrl} alt={project.title} />
                     </div>
                     <div className="project-content">
-                        <h2>{project.title}</h2>
+                        <h3>Descripción</h3>
                         <div className="project-description">
-                            <p>{project.description}</p>
-                        </div>
-                        <div className="technologies">
-                            <ul>
-                                {project.technologies.map((tech, index) => (
-                                    <li key={index}>{tech}</li>
-                                ))}
-                            </ul>
+                            <p>{project.details}</p>
                         </div>
                     </div>
                 </section>

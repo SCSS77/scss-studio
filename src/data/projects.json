@@ -3,96 +3,120 @@
     "id": 1,
     "title": "Drinks & CO",
     "description": "Drinks&Co es una tienda online de bebidas que ofrece una amplia selección de vinos, licores y cervezas para todos los gustos.",
+    "details": "Drinks and Co es una innovadora empresa a la que hemos proporcionado un servicio integral de diseño y desarrollo. Nuestro trabajo incluyó diseño gráfico de alta calidad, desarrollo de funcionalidades dinámicas en JavaScript y creación de plantillas HTML personalizadas. Además, mejoramos la experiencia del usuario (UX) y la interfaz de usuario (UI) para asegurar una navegación intuitiva y atractiva. El resultado es una presencia digital robusta y visualmente impactante que refleja la esencia y los valores de Drinks and Co, ofreciendo a sus clientes una experiencia en línea excepcional.",
     "imageUrl": "/assets/images/drinksandco-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco2.png",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["UX/UI", "JS", "HTML", "SCSS"]
   },
   {
     "id": 2,
     "title": "By Hours",
     "description": "ByHours es una plataforma que permite reservar habitaciones de hotel por horas, ofreciendo flexibilidad y ahorro a los usuarios.",
+    "details": "By Hours nos confió el diseño y desarrollo de su área privada de usuario, donde adaptamos y extendimos el estilo visual existente para mantener una experiencia de usuario coherente y atractiva. Nos enfocamos en la UX/UI para asegurar una interfaz intuitiva y fácil de usar. Además, implementamos JavaScript para funcionalidades avanzadas y creamos plantillas HTML personalizadas. Nuestro trabajo permitió que la plataforma privada de By Hours ofrezca a sus usuarios una experiencia fluida y satisfactoria, consolidando su imagen de calidad e innovación.",
     "imageUrl": "/assets/images/byhourslogo-small.jpg",
-    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioUrl": "/assets/images/byhours2.png",
+    "imagePortfolioBigUrl": "/assets/images/byhours-big.png",
     "technologies": ["UX/UI", "HTML", "SCSS"]
   },
   {
     "id": 3,
     "title": "Institut Gutmann",
     "description": "Amics Gutmann es una asociación dedicada a mejorar la calidad de vida de personas con discapacidades, promoviendo su inclusión y bienestar.",
+    "details": "Para el Institut Guttmann, desarrollamos un CMS a medida que incluye un sistema de donaciones en línea, adaptado a las necesidades específicas de la organización. Nos encargamos de toda la maquetación y diseño UX/UI, asegurando una experiencia de usuario intuitiva y eficiente. Nuestro trabajo permitió al Institut Guttmann gestionar su contenido de manera autónoma y facilitar las donaciones, mejorando la interacción con sus benefactores y apoyando su misión de brindar atención de calidad.",
     "imageUrl": "/assets/images/gutmann-small.jpg",
-    "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioUrl": "/assets/images/gutmann.jpg",
+    "imagePortfolioBigUrl": "/assets/images/gutmann-big.png",
     "technologies": ["UX/UI", "JS", "HTML", "SCSS", "CMS"]
   },
   {
     "id": 4,
     "title": "JC Apotecari",
     "description": "Innovadora farmacia en línea que ofrece una amplia gama de productos de salud y belleza, con un enfoque en el cuidado personalizado y la calidad.",
+    "details": "",
     "imageUrl": "/assets/images/jcapotecari-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["ID", "Branding", "PHP", "MySQL"]
   },
   {
     "id": 5,
     "title": "Emagister",
     "description": "Plataforma líder en la búsqueda de cursos y programas educativos, ayudando a los usuarios a encontrar la formación que necesitan en un solo lugar.",
+    "details": "",
     "imageUrl": "/assets/images/emagister-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["React", "JS", "PHP", "SCSS"]
   },
   {
     "id": 6,
     "title": "Qué Pasta!",
     "description": "Cadena de restaurantes que ofrece una experiencia única de pasta fresca y auténtica cocina italiana en un ambiente acogedor.",
+    "details": "",
     "imageUrl": "/assets/images/quepasta-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["ID", "Branding", "Offline design"]
   },
   {
     "id": 7,
     "title": "Promofarma",
     "description": "Marketplace líder en productos de salud y belleza, ofreciendo una amplia gama de artículos de farmacia y parafarmacia con entrega rápida y precios competitivos.",
+    "details": "",
     "imageUrl": "/assets/images/promofarma-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["Vue.js", "React", "SCSS", "TS"]
   },
   {
     "id": 8,
     "title": "Codely.tv",
     "description": "Plataforma de formación en línea que ofrece cursos avanzados en desarrollo de software, impartidos por expertos para profesionales que buscan perfeccionar sus habilidades técnicas.",
+    "details": "",
     "imageUrl": "/assets/images/codely-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["ID", "Branding", "Online design"]
   },
   {
     "id": 9,
     "title": "Digital Igual",
     "description": "Imprenta en Barcelona especializada en soluciones gráficas de alta calidad, ofreciendo servicios personalizados para cubrir todas tus necesidades de impresión.",
+    "details": "",
     "imageUrl": "/assets/images/igual-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["ID", "JS", "PHP", "CMS"]
   },
   {
     "id": 10,
     "title": "Time Geeks",
     "description": "Juego móvil galardonado que combina aventuras de rompecabezas y gráficos en pixel-art para ofrecer una experiencia única de exploración y diversión.",
+    "details": "",
     "imageUrl": "/assets/images/timegeeks-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["Pixel-art", "Illustration", "Games"]
   },
   {
     "id": 11,
     "title": "Entrena en Barcelona",
     "description": "Descubre los beneficios del boxeo y crossfit en Barcelona con clases para todos los niveles, desde principiantes hasta profesionales.",
+    "details": "",
     "imageUrl": "/assets/images/entrenaenbarcelona-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["Video", "Post-production", "Social media"]
   },
   {
     "id": 12,
     "title": "Crazy Bill",
     "description": "Juego móvil de acción y plataformas en el que te enfrentas a hordas de zombies en un hotel repleto de desafíos y diversión sin límites. Disponible en iTunes y Android.",
+    "details": "",
     "imageUrl": "/assets/images/crazybill-small.jpg",
     "imagePortfolioUrl": "/assets/images/drinksandco-small.jpg",
+    "imagePortfolioBigUrl": "/assets/images/drinksandco-big.png",
     "technologies": ["Pixel-art", "Illustration", "Games"]
   }
 ]
